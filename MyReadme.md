@@ -9,3 +9,7 @@ Course.
 ## [Introduction to Spring Data JPA Repositories](docs/md/springdatajpa.md)
 
 ## [Initializing Data with Spring Framework](docs/md/initializingdata.md)
+
+## Assignment: Publisher Entity
+
+See assignment's [description](docs/ppts/AssignmentPublisherEntity.pdf).
