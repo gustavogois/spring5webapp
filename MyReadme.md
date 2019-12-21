@@ -4,7 +4,7 @@ This material was generated from
 [Spring Framework 5: Beginner to Guru](http://www.udemy.com/course/spring-framework-5-beginner-to-guru) 
 Course.
 
-## Introduction
+## Introduction to JPA
 
 1. To execute: 
 
@@ -35,3 +35,12 @@ Now you can: ```localhost:8080/h2-console```
 
 - According to recommended for Hibernate, as we are using Sets, generate hashcode and equals methods, from Id value,
 for both classes: Author and Book.
+
+## Introduction to Spring Data JPA Repositories
+
+1. See [UsingSpringDataJPA.pdf](docs/ppts/UsingSpringDataJPA.pdf)
+
+2. Tasks:
+
+- In a new package called ```repository```, create the ```AuthorRepository``` and ```BookRepository``` interfaces. 
+This interfaces will extend ```CrudRepository``` class.
