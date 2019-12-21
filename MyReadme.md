@@ -7,3 +7,5 @@ Course.
 ## [Introduction to JPA](docs/md/jpaintroduction.md)
 
 ## [Introduction to Spring Data JPA Repositories](docs/md/springdatajpa.md)
+
+## [Initializing Data with Spring Framework](docs/md/initializingdata.md)
