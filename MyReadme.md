@@ -13,3 +13,7 @@ Course.
 ## Assignment: Publisher Entity
 
 See assignment's [description](docs/ppts/AssignmentPublisherEntity.pdf).
+
+## Configuring Spring MVC Controllers
+
+See [Configuring Spring Controllers](docs/ppts/AssignmentPublisherEntity.pdf)
