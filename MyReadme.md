@@ -21,3 +21,5 @@ See [Configuring Spring Controllers](docs/ppts/AssignmentPublisherEntity.pdf)
 ## Thymeleaf Templates
 
 See [Intro Thymeleaf Templates](docs/ppts/IntroThymeleafTemplates.pdf)
+
+### Assignement: Display List of Authors
